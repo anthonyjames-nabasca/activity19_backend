@@ -1,0 +1,34 @@
+# dependencies
+node_modules/
+
+# environment files
+.env
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# build output
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# uploads (optional if you do not want uploaded files in git)
+uploads/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# runtime files
+*.pid
+*.seed
+*.pid.lock
