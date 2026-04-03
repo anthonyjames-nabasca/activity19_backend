@@ -3,7 +3,7 @@
 ## Backend `README.md`
 
 ````md
-# Activity 18 / 19 Flask Backend
+# Activity 19 Flask Backend
 
 Flask API with MySQL for account management system.
 
