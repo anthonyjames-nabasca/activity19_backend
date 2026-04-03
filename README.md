@@ -249,5 +249,5 @@ SMTP_USER=anthonyjames.nabasca@nmsc.edu.ph
 SMTP_PASS=httf tjuh rqzx ugak
 ````
 
-## Important
+
 
